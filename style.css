@@ -7,7 +7,7 @@ html {
 }
 
 h3 {
- font-size: 8vw;
+ font-size: 4vw;
  font-family: Lucida Sans;
  text-align: center;
  color: white;
@@ -30,7 +30,7 @@ img {
 border-radius: 8px;
  text-align: center;
  display: block;
- font-size: 20px;
+ font-size: 25px;
  cursor: pointer;
  color: white;
  font-family: "Lucida Sans";
@@ -47,7 +47,7 @@ button:hover {
 }
 
 p {
-  font-size: 7vw;
+  font-size: 3vw;
   font-family: 'Lucida Sans';
   text-align: center;
   color: white;
