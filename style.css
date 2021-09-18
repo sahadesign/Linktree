@@ -7,7 +7,7 @@ html {
 }
 
 h3 {
- font-size: 5vw;
+ font-size: 50px;
  font-family: Lucida Sans;
  text-align: center;
  color: white;
@@ -47,7 +47,7 @@ button:hover {
 }
 
 p {
-  font-size: 4vw;
+  font-size: 20px;
   font-family: 'Lucida Sans';
   text-align: center;
   color: white;
