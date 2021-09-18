@@ -1,5 +1,7 @@
-Welcome to my Webpage
+Hola amigos!
+I'm Sahana V Kumar and Welcome to my website.
 
 I created these using the basics of HTML and CSS.
+It contains links to my social media handles and coding platforms.
 
 Hope you like it!
