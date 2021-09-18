@@ -1,6 +1,6 @@
 html {
    background-image: url("cool.gif");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background -position: center;
   min-height: 100%;
