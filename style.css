@@ -40,3 +40,9 @@ border-radius: 8px;
 button:hover {
   filter:brightness(300%);
 }
+
+.respo {
+  width: 25%;
+  height: auto;
+  max-width: 100%;
+}
