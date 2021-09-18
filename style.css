@@ -36,3 +36,7 @@ img {
   color: white;
   font-family: "Lucida Sans";
 }
+
+button:hover {
+   filter:brightness(110%);
+}
